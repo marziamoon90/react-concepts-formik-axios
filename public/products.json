@@ -1,0 +1,72 @@
+[
+    {
+        "product_id": 1,
+        "name": "Mobile",
+        "price": 5000,
+        "shop_name": "Monkey King",
+        "shop_id": 2
+    },
+    {
+        "product_id": 2,
+        "name": "Laptop",
+        "price": 3000,
+        "shop_name": "Monkey King",
+        "shop_id": 2
+    },
+    {
+        "product_id": 3,
+        "name": "Camera",
+        "price": 4000,
+        "shop_name": "Monkey King",
+        "shop_id": 2
+    },
+    {
+        "product_id": 4,
+        "name": "Sharee",
+        "price": 300,
+        "shop_name": "Sharee Ghor",
+        "shop_id": 3
+    },
+    {
+        "product_id": 5,
+        "name": "Kurti",
+        "price": 700,
+        "shop_name": "Sharee Ghor",
+        "shop_id": 3
+    },
+    {
+        "product_id": 6,
+        "name": "Shirt",
+        "price": 500,
+        "shop_name": "Sharee Ghor",
+        "shop_id": 3
+    },
+    {
+        "product_id": 7,
+        "name": "Makeup",
+        "price": 1500,
+        "shop_name": "Beauty shop",
+        "shop_id": 4
+    },
+    {
+        "product_id": 8,
+        "name": "Ram",
+        "price": 3000,
+        "shop_name": "Gallery",
+        "shop_id": 1
+    },
+    {
+        "product_id": 9,
+        "name": "SSD",
+        "price": 2200,
+        "shop_name": "Gallery",
+        "shop_id": 1
+    },
+    {
+        "product_id": 10,
+        "name": "WebCam",
+        "price": 2000,
+        "shop_name": "Gallery",
+        "shop_id": 1
+    }
+]
